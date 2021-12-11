@@ -12,7 +12,7 @@ plugins/normalise master
 plugins/op5 master
 plugins/opsgenie master
 plugins/pagerduty master
-plugins/prometheus master
+plugins/prometheus ef28e4ecd0a01e1c519026e8a53a23c9d19d6462
 plugins/pubsub master
 plugins/pushover master
 plugins/rocketchat master
