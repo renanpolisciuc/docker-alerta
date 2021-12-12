@@ -17,7 +17,7 @@ plugins/pubsub master
 plugins/pushover master
 plugins/rocketchat master
 plugins/slack master
-plugins/sns 43934d6f2de32f880354eb6d20a3050624a7b52b
+plugins/sns a79402a549189ba2559fef5e1ae43539500e33b2
 plugins/syslog master
 plugins/telegram master
 plugins/twilio master
