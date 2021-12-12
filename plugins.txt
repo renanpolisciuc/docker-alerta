@@ -22,3 +22,4 @@ plugins/syslog master
 plugins/telegram master
 plugins/twilio master
 plugins/zabbix master
+webhooks/msteams master
