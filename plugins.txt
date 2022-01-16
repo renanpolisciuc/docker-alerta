@@ -23,4 +23,4 @@ plugins/telegram master
 plugins/twilio master
 plugins/zabbix master
 webhooks/msteams master
-webhooks/influxdb2 master
+webhooks/influxdb2 v0.1.0
